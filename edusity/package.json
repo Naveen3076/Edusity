@@ -1,13 +1,9 @@
 {
-"homepage": "http://Naveen3076.github.io/Edusity",
   "name": "edusity",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
